@@ -1,7 +1,6 @@
 # vue_chat
 
-## hosted here:
-[Firebase](https://chatter-111.firebaseapp.com).
+## hosted here: [Firebase](https://chatter-111.firebaseapp.com).
 
 ## Project setup
 ```
